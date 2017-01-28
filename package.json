@@ -5,20 +5,9 @@
   "main": "lib/index.js",
   "dependencies": {},
   "author": {
-    "name": "Krasimir Tsonev",
-    "email": "info@krasimirtsonev.com",
-    "url": "http://krasimirtsonev.com"
+    "name": "Wilhelm Van Der Walt",
   },
   "license": "MIT",
-  "keywords": [
-    "react",
-    "carousel",
-    "responsive"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:krasimir/react-webpack-starter.git"
-  },
   "scripts": {
     "dev": "./node_modules/.bin/webpack --watch --inline",
     "build": "./node_modules/.bin/webpack --config=webpack.build.config.js",
